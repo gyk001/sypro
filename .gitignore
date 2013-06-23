@@ -1,1 +1,10 @@
 target/
+META-INF/
+sypro.iml
+.DS_Store
+.classpath
+.settings/
+.idea/
+.project
+
+
